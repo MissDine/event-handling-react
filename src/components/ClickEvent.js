@@ -1,5 +1,6 @@
 import React from 'react'
 
+//Functional components
 function ClickEvent() {
     function clickHandler(){
         console.log("Button clicked");
@@ -11,5 +12,7 @@ function ClickEvent() {
     </>
   )
 }
+
+
 
 export default ClickEvent
