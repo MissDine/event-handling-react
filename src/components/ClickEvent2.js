@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 export class ClickEvent2 extends Component {
     clickHandler(){
-        console.log("Thanks for clicking me");
+        console.log("Thanks for clicking me")
     }
   render() {
     return (
